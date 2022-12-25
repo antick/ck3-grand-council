@@ -1,0 +1,2 @@
+﻿gui/council_advisors_mod.gui = council_advisors_window
+gui/council_advisors_mod.gui = cac_window_toggler

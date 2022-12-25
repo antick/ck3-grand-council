@@ -1,0 +1,3 @@
+﻿cac_mode_real = 1
+cac_mode_boost = 2
+cac_mode_cheat = 3
